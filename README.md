@@ -1,4 +1,6 @@
-## EX NO:1      # ATM AND BANKING SYSTEM
+                               # ATM AND BANKING SYSTEM
+## EX NO:1      
+
 ## DATE: 21.02.2024
 ## ATM and Banking SYSTEM
 ### AIM: 
